@@ -1,1 +1,1 @@
-api_token = "vk1.a.TmCY-ZUzyV85r2x86u_X1pFnweVvhx91vglRm3rqViOaJs_Om_n7EuFEylkdFml_2vPNORPkcv-eu2TwcLxM-uRT6qsMjg10CrwWZVZt3L8RWc4pAX6CXyM2E8M7B-kPNgmmtVKZZz1LDv2g_bQpph-sJonxqupDS-iFIZoyHYt9EXrM9n2Z4dr9m9GZMfhbRMWPqCTui6LkgTetg7E9gw"
+api_token = "сюда пишем токен"
